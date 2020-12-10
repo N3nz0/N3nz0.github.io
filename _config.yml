@@ -3,3 +3,6 @@ title: HoGa News Wall
 author: N3nz0 @ Filosof
 description: > # this means to ignore newlines until "baseurl:"
   HoGa News Wall
+
+
+show_excerpts: true # set to false to remove excerpts on the homepage
